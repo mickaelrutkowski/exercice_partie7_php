@@ -1,0 +1,12 @@
+body {
+    background-color: black;
+    color: white;
+}
+form {
+    margin-top: 10%;
+}
+p {
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto; 
+}
